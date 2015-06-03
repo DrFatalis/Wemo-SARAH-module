@@ -1,0 +1,8 @@
+{
+  "modules": { 
+    "wemo": {
+      "description": "Commander les prises Belkin Wemo Insight",
+      "version": "0.1"
+    }
+  }
+}
